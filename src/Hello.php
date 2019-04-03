@@ -1,5 +1,5 @@
 <?php
-namespace linmaogan;
+namespace Linmaogan;
 
 class Hello
 {
