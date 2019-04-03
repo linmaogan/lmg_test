@@ -1,0 +1,20 @@
+{
+    "name": "linmaogan/lmg_test",
+    "description": "this is example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lmg",
+            "email": "linmaogan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lmg_test\\": "src/"
+        }
+    }
+}

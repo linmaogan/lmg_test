@@ -1,4 +1,1 @@
-lmg_test
-========
-
-test
+hello world
