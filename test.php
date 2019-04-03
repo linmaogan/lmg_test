@@ -7,5 +7,5 @@
  */
 
 require_once __DIR__ . '/vendor/autoload.php';
-use linmaogan\lmg_test;
+use linmaogan\Hello;
 echo Hello::world();
