@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lmg_test\\": "src/"
+            "linmaogan\\": "src/"
         }
     }
 }
